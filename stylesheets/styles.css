@@ -1,0 +1,28 @@
+head {
+  display: block;
+  text-align: center;
+  background-color: #FFFFFF;
+  background-image: url("/IMG/green background.jpg");
+  background-position: top left;
+  background-repeat: repeat-y;
+}
+
+body{
+  font-size: 30px;
+  padding: 0px;
+  margin: 0 0 0 0;
+  text-align: center;
+  background-color: #FFFF58;
+  color:#FF0000;
+  text-shadow: 5px 5px #FFFF58;
+}
+
+
+
+
+a{
+  color: #FF0000;
+text-shadow: 0px 0px;
+
+  text-decoration: none;
+}
